@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FundamentosDeAndroid-PrimeraEntrega</string>
+    <string name="mensaje">Bienvenido</string>
+    <string name="textoboton">Entrar</string>
+    <string name="descripcionfondo">logo de Android en negro en medio de nubes en el cielo</string>
+
+</resources>
